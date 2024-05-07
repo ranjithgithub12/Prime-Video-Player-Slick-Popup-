@@ -1,0 +1,18 @@
+.app-container {
+  background-color: #000000;
+  min-height: 100vh;
+}
+
+.banner-width {
+  width: 100%;
+}
+.movie-container {
+  min-height: 50vh;
+  padding: 30px;
+}
+.heading {
+  color: #ffffff;
+}
+.slick-container {
+  padding: 20px;
+}
